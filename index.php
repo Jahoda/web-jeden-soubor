@@ -91,8 +91,9 @@ foreach ($zaznamy as $zaznam) {
 
 ?>
 };
+</script>
 
-
+<script>
 function insertAndExecute(id, text)
   {
     domelement = document.getElementById(id);
